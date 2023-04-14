@@ -6,7 +6,7 @@ pipeline {
     }
 
     environment {
-        registry = "gauthambappalige12/hello"
+        registry = "gauthambappalige12/hello2"
         registryCredential = 'dockerhub'
     }
 
